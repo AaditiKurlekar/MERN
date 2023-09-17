@@ -1,2 +1,2 @@
 # MERN
-Practice Applications
+Practice Applications here
